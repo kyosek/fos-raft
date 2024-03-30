@@ -1,8 +1,7 @@
 from typing import Literal, Any, List
 import argparse
 from openai import OpenAI
-from datasets import Dataset, load_dataset
-from transformers import AutoTokenizer, AutoModelForCausalLM
+from datasets import Dataset
 import json
 import PyPDF2
 import random

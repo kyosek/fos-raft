@@ -1,3 +1,7 @@
+.launch.json
+.settings.json
+.vscode
+
 .idea
 .DS_Store
 
